@@ -1,3 +1,3 @@
 #!/bin/bash
 apt-get update
-apt-get install apache2
+apt-get -y install apache2
